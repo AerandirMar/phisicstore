@@ -89,6 +89,7 @@ button {
 
 #titulo{
     display: flexbox;
+    border: none;
 }
 
 /*NavBar con pestañas desde acá*/
